@@ -5,5 +5,10 @@
     "sector": "Presales & Sales Enablement",
     "website": "https://uzonova.com",
     "summary": "Helps SaaS and technology companies build world-class presales and sales capabilities — through workshops, deal coaching, revenue enablement, and fractional advisory."
+  },
+  {
+    "slug": "crons",
+    "name": "Crons",
+    "summary": "Smoke test tenant used to verify the starter-tier deploy path after the agentcreator image fix. Not a real client."
   }
 ]
