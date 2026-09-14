@@ -4,6 +4,12 @@
     "name": "Uzonova",
     "sector": "Presales & Sales Enablement",
     "website": "https://uzonova.com",
-    "summary": "Helps SaaS and technology companies build world-class presales and sales capabilities \u2014 through workshops, deal coaching, revenue enablement, and fractional advisory."
+    "summary": "Helps SaaS and technology companies build world-class presales and sales capabilities — through workshops, deal coaching, revenue enablement, and fractional advisory."
+  },
+  {
+    "slug": "turingdna",
+    "name": "Turingdna",
+    "website": "https://turingdna.com",
+    "summary": "TuringDNA is a biotechnology company that engineers proteins using artificial intelligence. It offers AI-driven solutions for protein design and engineering to advance scientific and industrial applications."
   }
 ]
