@@ -17,5 +17,11 @@
     "name": "Northvale Developers",
     "website": "https://northvale-developers.example",
     "summary": "Northvale Developers is a Pune-based residential developer with four projects (2 and 3 BHK apartments and villas, Rs 85 lakh to Rs 3.5 crore) in Hinjewadi, Baner and Kharadi. About a third of our buyers are NRIs in the…"
+  },
+  {
+    "slug": "skillbridge-learning",
+    "name": "Skillbridge Learning",
+    "website": "https://skillbridge-learning.example",
+    "summary": "SkillBridge Learning Partners is a Bengaluru-based corporate training partner. We deliver instructor-led certification programmes (Microsoft Azure, AWS, Red Hat, Kubernetes, ITIL, PMP) for IT services firms and global…"
   }
 ]
