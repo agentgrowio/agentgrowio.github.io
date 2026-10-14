@@ -23,5 +23,11 @@
     "name": "Skillbridge Learning",
     "website": "https://skillbridge-learning.example",
     "summary": "SkillBridge Learning Partners is a Bengaluru-based corporate training partner. We deliver instructor-led certification programmes (Microsoft Azure, AWS, Red Hat, Kubernetes, ITIL, PMP) for IT services firms and global…"
+  },
+  {
+    "slug": "samhithe",
+    "name": "Samhithe",
+    "website": "https://www.samhithe.in/",
+    "summary": "Samhithe (Bangalore, founder Nidhi B) runs in-person School & Teacher Workshops for schools and preschools. Teachers learn to read behaviour as communication and respond with skill, not frustration. Before each…"
   }
 ]
