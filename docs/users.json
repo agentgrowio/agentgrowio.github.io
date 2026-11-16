@@ -47,5 +47,11 @@
     "name": "Stitch",
     "website": "https://stitch.ai",
     "summary": "Stitch.ai is an AI-powered workspace platform that integrates ten essential productivity tools, including Mail, Calendar, Tasks, Notes, and Files, into a single unified interface. The service features an AI assistant…"
+  },
+  {
+    "slug": "devops",
+    "name": "Devops",
+    "website": "https://devops.gheware.com",
+    "summary": "Gheware offers Agentic AI Training, a five-day certification program designed for engineers seeking to master AI technologies. The business markets itself as a provider of professional development courses, highlighting…"
   }
 ]
